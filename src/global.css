@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .button {
-    @apply bg-violet-500 px-4 h-10 rounded;
+    @apply bg-violet-500 px-4 h-10 rounded text-violet-100;
 }
